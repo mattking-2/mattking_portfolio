@@ -16,7 +16,7 @@ These projects highlight work I am able to share publicly and reflect the types 
 - **Key Skills:** SQL, dbt, BigQuery, data modeling, Python
 - **Repo Link:** [View Project](https://github.com/mattking-2/mHealth_dbt)
 
-### 2. The Kingsmen Agency Dashboard
+### 2. The Kingsmen Agency - Data Infrastructure & CRM Dashboard
 - **Description:** Built a complete small business data infrastructure from the ground up, consolidating fragmented spreadsheets into an automated pipeline feeding a CRM dashboard.
 - **Key Skills:** Python,  Power BI, data pipelines, data cleaning
 - **Repo Link:** [View Project](https://github.com/mattking-2/kingsmen_agency_project)
