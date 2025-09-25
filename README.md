@@ -23,4 +23,4 @@ These projects highlight work I am able to share publicly and reflect the types 
 
 ## Contact
 - Email: mattk5464@gmail.com
-- LinkedIn: [linkedin.com/in/matt-king](https://www.linkedin.com/in/matt-king/)
+- LinkedIn: [linkedin.com/in/matt-king-/](https://www.linkedin.com/in/matt-king-/)
