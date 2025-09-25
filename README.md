@@ -13,12 +13,12 @@ These projects highlight work I am able to share publicly and reflect the types 
 ### 1. mHealth dbt Project
 - **Description:** Data modeling and analytics for mobile health app data using dbt and BigQuery.
 - **Key Skills:** SQL, dbt, BigQuery, data modeling, Jupyter
-- **Repo Link:** [View Project](./mHealth_dbt)
+- **Repo Link:** [View Project](https://github.com/mattking-2/mHealth_dbt)
 
 ### 2. Kingsmen Agency Dashboard
 - **Description:** CRM dashboard for tracking prospects, customers, sales calls, and delivery routes.
 - **Key Skills:** Python, data pipelines, Power BI, data cleaning
-- **Repo Link:** [View Project](./kingsmen_agency_project)
+- **Repo Link:** [View Project](https://github.com/mattking-2/kingsmen_agency_project)
 
 ## Contact
 - Email: mattk5464@gmail.com
