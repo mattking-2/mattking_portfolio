@@ -3,9 +3,10 @@
 Welcome! This repository highlights some data projects I've worked on recently.
 
 ### About me:
-Lead data analyst with over three years of experience in data analysis, automated reporting, and data modeling. 
-Passionate about turning complex datasets into actionable insights, streamlining processes, and enabling data-driven decision making across teams.
+Lead data analyst with over three years of experience driving insights through data analysis, automated reporting, and data modeling. 
+Passionate about transforming complex datasets into actionable insights, streamlining processes, and enabling data-driven decision making across teams.
 Skilled in SQL, Python, Tableau, PowerBI, R, and dbt.
+Experienced in finance, marketing, product, and customer experience analytics.
 
 ## Projects
 These projects highlight work I am able to share publicly and reflect the types of advanced analytics and data modeling I routinely perform in professional settings.
