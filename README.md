@@ -1,6 +1,6 @@
 # Matt King – Data & Analytics Portfolio
 
-Welcome! This repository highlights some data projects I've worked on.
+Welcome! This repository highlights some data projects I've worked on recently.
 
 ### About me:
 Lead data analyst with over three years of experience in data analysis, automated reporting, and data modeling. 
