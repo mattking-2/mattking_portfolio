@@ -9,7 +9,7 @@ Skilled in SQL, Python, Tableau, PowerBI, R, and dbt.
 Experienced in finance, marketing, product, and customer experience analytics.
 
 ## Projects
-These projects highlight work I am able to share publicly and reflect the types of advanced analytics and data modeling I routinely perform in professional settings.
+These projects highlight work I am able to share publicly and reflect the types of advanced analytics and data modeling I routinely perform in professional settings. Click the View Project links below to see more.
 
 ### 1. mHealth dbt Modeling
 - **Description:** Data modeling and analytics for mobile health app data using dbt and BigQuery.
